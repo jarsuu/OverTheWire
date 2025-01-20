@@ -78,7 +78,7 @@ Output:\
 Password:\
 `HWasnPhtq9AVKe0dmk45nxy20cvUa6EG`
 
-# Level 7
+## Level 7
 Find a file somehwere in the server meeting conditions:
 - owned by user bandit7
 - owned by group bandit6
